@@ -1,60 +1,49 @@
 # <img src="README.assets/giphy.gif" width="30px"> Hi，I am Taitres
 
-## 🔗 在线足迹
+## 🔗 Online Footprint
 
 - 🏠 [个人博客](https://www.taitres.com/) - 我的技术分享与生活点滴
-- 🧭 [导航站](https://go.taitres.com/) - 为你指引数字世界的方向
-
-
-## 💻 技术栈
+- 🧭 [导航站](https://go.taitres.com/) - 成为日常更好用的导航
+## 💻 Tech Stack
 
 <div align="center">
-  <p>Java | Spring | Spring Cloud | Python | Linux | Docker | Git</p>
-</div>
 
-## 📈 GitHub统计
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taitres&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="README.assets/1740843563227-11.svg+xml" />
 
-</div>
-
-## 🏆 我的项目
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Taitres/MFGIN">
-    <img src="README.assets/1740843563225-1.svg+xml" alt="MFGIN 项目" />
-  </a>
-  <a href="https://github.com/Taitres/xypp">
-    <img src="README.assets/1740843563225-2.svg+xml" alt="xypp 项目" />
-  </a>
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taitres&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taitres&layout=compact&langs_count=7&theme=radical" />
 
 </div>
 
-## 🏄‍♂️ 业余爱好
+## 🏆 My Projects
+
+<div align="center">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Taitres&repo=MFGIN&theme=radical)](https://github.com/Taitres/MFGIN)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Taitres&repo=xypp&theme=radical)](https://github.com/Taitres/xypp)
+</div>
+
+## 🏄‍♂️ Hobbies
 
 <div align="center">
   <p>英雄联盟爱好者，当键盘停止敲打代码，就开始敲打对手！</p>
   <p>艾欧尼亚：一打木#84989</p>
   <p>黑色玫瑰：含时薛定谔方程#44640</p>
 
-*有时我的游戏水平就像我的代码一样，充满潜力但仍然debug！*
+  <!-- 有时我的游戏水平就像我的代码一样，充满潜力但仍然debug --> </div>
+
+
 
 </div>
 
 ## 📫 联系我
 
-<div align="center">
-  <a href="mailto:920643082@qq.com">
-    <img src="README.assets/Email-联系我-blue.svg+xml" alt="Email" />
-  </a>
-  <a href="https://img.taitres.com/uploads/2025/03/01/67c329d5e3c34.png">
-    <img src="README.assets/微信-添加-brightgreen.svg+xml" alt="WeChat" />
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Email-联系我-blue?style=for-the-badge&logo=gmail)](mailto:920643082@qq.com)
+[![WeChat](https://img.shields.io/badge/微信-添加-brightgreen?style=for-the-badge&logo=wechat)](https://img.taitres.com/uploads/2025/03/01/67c329d5e3c34.png)
 
 
 ---
