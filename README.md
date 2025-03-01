@@ -1,4 +1,4 @@
-# <img src="README.assets/giphy.gif" width="30px"> Hi，I am Taitres
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi，I am Taitres
 
 ## 🔗 Online Footprint
 - 🏠 [个人博客](https://www.taitres.com/) - 我的技术分享与生活点滴
@@ -77,11 +77,10 @@
 
 ---
 
+
 <div align="center">
-感谢您访问我的主页！如果我的项目对您有帮助，别忘了给它们点个⭐ 
-期待与您合作共创精彩！
+  <p><b>感谢您访问我的主页！如果我的项目对您有帮助，别忘了给它们点个⭐</b></p>
+  <p><b>期待与您合作共创精彩！</b></p>
 
-
-![访问次数](https://profile-counter.glitch.me/Taitres/count.svg)
-
+  ![访问次数](https://profile-counter.glitch.me/Taitres/count.svg)
 </div>
