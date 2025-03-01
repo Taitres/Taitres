@@ -1,4 +1,4 @@
-# <img src="README.assets/giphy.gif" width="30px"> 你好，我是 Taitres
+# <img src="README.assets/giphy.gif" width="30px"> Hi，I am Taitres
 
 ## 🔗 Online Footprint
 - 🏠 [个人博客](https://www.taitres.com/) - 我的技术分享与生活点滴
@@ -46,7 +46,7 @@
         </blockquote>
         <p>🌟 艾欧尼亚：一打木#84989</p>
         <p>🌹 黑色玫瑰：含时薛定谔方程#44640</p>
-        <p><img src="https://img.shields.io/badge/主打-打野/上单-orange?style=flat-square" alt="Role"/> <img src="https://img.shields.io/badge/常用英雄-盲僧/剑姬-purple?style=flat-square" alt="Champions"/></p>
+        <p><img src="https://img.shields.io/badge/主打-中单/ADC-orange?style=flat-square" alt="Role"/> <img src="https://img.shields.io/badge/常用英雄-塞拉斯/阿狸-purple?style=flat-square" alt="Champions"/></p>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/兴趣-编程/学习-green?style=for-the-badge" alt="Coding"/>
@@ -60,7 +60,6 @@
       </td>
     </tr>
   </table>
-
 
   <p><i>有时我的游戏水平就像我的代码一样，充满潜力但仍在不断debug！</i></p>
 </div>
@@ -79,8 +78,9 @@
 ---
 
 <div align="center">
-**感谢您访问我的主页！如果我的项目对您有帮助，别忘了给它们点个⭐**  
-**期待与您合作共创精彩！**
+感谢您访问我的主页！如果我的项目对您有帮助，别忘了给它们点个⭐ 
+期待与您合作共创精彩！
+
 
 ![访问次数](https://profile-counter.glitch.me/Taitres/count.svg)
 
