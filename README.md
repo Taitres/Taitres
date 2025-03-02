@@ -64,7 +64,7 @@
   <p><i>有时我的游戏水平就像我的代码一样，充满潜力但仍在不断debug！</i></p>
 </div>
 
-## 📫 联系我
+## 📫 Contact Me
 
 <div align="center">
 
