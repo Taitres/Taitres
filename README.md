@@ -27,8 +27,8 @@
   <a href="https://github.com/Taitres/MFGIN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taitres&repo=MFGIN&theme=radical" alt="MFGIN Project" />
   </a>
-    <a href="https://github.com/Taitres/MVAEI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taitres&repo=MFGIN&theme=radical" alt="MFGIN Project" />
+  <a href="https://github.com/Taitres/MVAEI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taitres&repo=MVAEI&theme=radical" alt="MVAEI Project" />
   </a>
   <a href="https://github.com/Taitres/xypp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taitres&repo=xypp&theme=radical" alt="xypp Project" />
